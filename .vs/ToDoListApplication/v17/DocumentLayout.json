@@ -11,24 +11,24 @@
       "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:todolistapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\src\\todomodule\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:src\\todomodule\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\src\\orchardcore.modules\\orchardcore.todomodule\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:src\\orchardcore.modules\\orchardcore.todomodule\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\src\\todomodule\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:src\\todomodule\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\src\\orchardcore.modules\\orchardcore.todomodule\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:src\\orchardcore.modules\\orchardcore.todomodule\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\src\\todomodule\\manifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:src\\todomodule\\manifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\src\\orchardcore.modules\\orchardcore.todomodule\\manifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:src\\orchardcore.modules\\orchardcore.todomodule\\manifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\src\\todomodule\\models\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:src\\todomodule\\models\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\src\\orchardcore.modules\\orchardcore.todomodule\\models\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:src\\orchardcore.modules\\orchardcore.todomodule\\models\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-04T14:32:00.219Z",
               "EditorCaption": ""
@@ -56,24 +56,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ToDoListApplication",
+              "Title": "ToDoListApplication.csproj",
               "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\ToDoListApplication.csproj",
               "RelativeDocumentMoniker": "ToDoListApplication.csproj",
               "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\ToDoListApplication.csproj",
               "RelativeToolTip": "ToDoListApplication.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-05T00:15:21.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T00:15:21.009Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "src\\ToDoModule\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "src\\ToDoModule\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-04T14:52:55.777Z"
@@ -82,10 +81,10 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Manifest.cs",
-              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Manifest.cs",
-              "RelativeDocumentMoniker": "src\\ToDoModule\\Manifest.cs",
-              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Manifest.cs",
-              "RelativeToolTip": "src\\ToDoModule\\Manifest.cs",
+              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Manifest.cs",
+              "RelativeDocumentMoniker": "src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Manifest.cs",
+              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Manifest.cs",
+              "RelativeToolTip": "src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Manifest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T14:38:42.77Z"
@@ -94,10 +93,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ToDoItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Controllers\\ToDoItemsController.cs",
-              "RelativeDocumentMoniker": "src\\ToDoModule\\Controllers\\ToDoItemsController.cs",
-              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Controllers\\ToDoItemsController.cs",
-              "RelativeToolTip": "src\\ToDoModule\\Controllers\\ToDoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Controllers\\ToDoItemsController.cs",
+              "RelativeDocumentMoniker": "src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Controllers\\ToDoItemsController.cs",
+              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Controllers\\ToDoItemsController.cs",
+              "RelativeToolTip": "src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Controllers\\ToDoItemsController.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAgwAkAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T14:30:33.856Z"
@@ -118,10 +117,10 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ToDoItems.cs",
-              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Models\\ToDoItems.cs",
-              "RelativeDocumentMoniker": "src\\ToDoModule\\Models\\ToDoItems.cs",
-              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Models\\ToDoItems.cs",
-              "RelativeToolTip": "src\\ToDoModule\\Models\\ToDoItems.cs",
+              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Models\\ToDoItems.cs",
+              "RelativeDocumentMoniker": "src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Models\\ToDoItems.cs",
+              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Models\\ToDoItems.cs",
+              "RelativeToolTip": "src\\OrchardCore.Modules\\OrchardCore.ToDoModule\\Models\\ToDoItems.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T14:22:04.419Z"

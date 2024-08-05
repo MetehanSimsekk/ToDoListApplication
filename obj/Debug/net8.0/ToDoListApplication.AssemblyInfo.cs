@@ -102,7 +102,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToDoListApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+085392a7d9ee1b6b239af13616bf551e8473978f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToDoListApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToDoListApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

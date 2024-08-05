@@ -418,3 +418,4 @@ C:\Users\smskm\source\repos\ToDoListApplication\obj\Debug\net8.0\refint\ToDoList
 C:\Users\smskm\source\repos\ToDoListApplication\obj\Debug\net8.0\ToDoListApplication.pdb
 C:\Users\smskm\source\repos\ToDoListApplication\obj\Debug\net8.0\ToDoListApplication.genruntimeconfig.cache
 C:\Users\smskm\source\repos\ToDoListApplication\obj\Debug\net8.0\ref\ToDoListApplication.dll
+C:\Users\smskm\source\repos\ToDoListApplication\obj\Debug\net8.0\ToDoListApplication.sourcelink.json

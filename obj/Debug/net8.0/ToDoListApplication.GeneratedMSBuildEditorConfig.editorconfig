@@ -18,6 +18,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\smskm\source\repos\ToDoListApplication
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/smskm/source/repos/ToDoListApplication/src/ToDoModule/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = c3JjXFRvRG9Nb2R1bGVcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/smskm/source/repos/ToDoListApplication/src/OrchardCore.Modules/OrchardCore.ToDoModule/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = c3JjXE9yY2hhcmRDb3JlLk1vZHVsZXNcT3JjaGFyZENvcmUuVG9Eb01vZHVsZVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

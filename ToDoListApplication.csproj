@@ -46,10 +46,10 @@
     <Watch Remove="src\OrchardCore\**" />
   </ItemGroup>
   <ItemGroup>
-    <Watch Remove="src\ToDoModule\Controllers\ToDoItemsController.cs" />
-    <Watch Remove="src\ToDoModule\Models\ToDoItems.cs" />
-    <Watch Remove="src\ToDoModule\Services\Interfaces\IToDoItemService.cs" />
-    <Watch Remove="src\ToDoModule\Services\ToDoItemService.cs" />
+    <Watch Remove="src\OrchardCore.Modules\OrchardCore.ToDoModule\Controllers\ToDoItemsController.cs" />
+    <Watch Remove="src\OrchardCore.Modules\OrchardCore.ToDoModule\Models\ToDoItems.cs" />
+    <Watch Remove="src\OrchardCore.Modules\OrchardCore.ToDoModule\Services\Interfaces\IToDoItemService.cs" />
+    <Watch Remove="src\OrchardCore.Modules\OrchardCore.ToDoModule\Services\ToDoItemService.cs" />
   </ItemGroup>
 
 
