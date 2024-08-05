@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\todolistapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:todolistapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\src\\todomodule\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:src\\todomodule\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\src\\todomodule\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:src\\todomodule\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\src\\todomodule\\manifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:src\\todomodule\\manifest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|c:\\users\\smskm\\source\\repos\\todolistapplication\\src\\todomodule\\models\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71B7734-B4C4-4C43-85DA-29FDB4773DEA}|ToDoListApplication.csproj|solutionrelative:src\\todomodule\\models\\todoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T14:32:00.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoListApplication",
+              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\ToDoListApplication.csproj",
+              "RelativeDocumentMoniker": "ToDoListApplication.csproj",
+              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\ToDoListApplication.csproj",
+              "RelativeToolTip": "ToDoListApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T00:15:21.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\ToDoModule\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "src\\ToDoModule\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T14:52:55.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manifest.cs",
+              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Manifest.cs",
+              "RelativeDocumentMoniker": "src\\ToDoModule\\Manifest.cs",
+              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Manifest.cs",
+              "RelativeToolTip": "src\\ToDoModule\\Manifest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:38:42.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Controllers\\ToDoItemsController.cs",
+              "RelativeDocumentMoniker": "src\\ToDoModule\\Controllers\\ToDoItemsController.cs",
+              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Controllers\\ToDoItemsController.cs",
+              "RelativeToolTip": "src\\ToDoModule\\Controllers\\ToDoItemsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:30:33.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:19:46.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoItems.cs",
+              "DocumentMoniker": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Models\\ToDoItems.cs",
+              "RelativeDocumentMoniker": "src\\ToDoModule\\Models\\ToDoItems.cs",
+              "ToolTip": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\src\\ToDoModule\\Models\\ToDoItems.cs",
+              "RelativeToolTip": "src\\ToDoModule\\Models\\ToDoItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:22:04.419Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

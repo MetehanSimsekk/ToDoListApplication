@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "fzqcIR4Y3gTtgqjQZ5nwMUT1iBiJolndkQwRKMT3ksQ=",
+  "Source": "ToDoListApplication",
+  "BasePath": "_content/ToDoListApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ToDoListApplication\\wwwroot",
+      "Source": "ToDoListApplication",
+      "ContentRoot": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\wwwroot\\",
+      "BasePath": "_content/ToDoListApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\wwwroot\\.placeholder",
+      "SourceId": "ToDoListApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\wwwroot\\",
+      "BasePath": "_content/ToDoListApplication",
+      "RelativePath": ".placeholder",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.placeholder"
+    }
+  ]
+}

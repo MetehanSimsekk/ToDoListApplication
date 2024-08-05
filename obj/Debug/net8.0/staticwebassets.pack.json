@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\smskm\\source\\repos\\ToDoListApplication\\wwwroot\\.placeholder",
+      "PackagePath": "staticwebassets\\.placeholder"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ToDoListApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ToDoListApplication.props",
+      "PackagePath": "build\\ToDoListApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ToDoListApplication.props",
+      "PackagePath": "buildMultiTargeting\\ToDoListApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ToDoListApplication.props",
+      "PackagePath": "buildTransitive\\ToDoListApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
